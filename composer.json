@@ -1,0 +1,16 @@
+{
+    "name": "robertfausk/gists-by-melody",
+    "description": "Just some gists for debug, testing and proof reasons",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "robertfausk",
+            "email": "robertfreigang@gmx.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "sensiolabs/melody": "dev-master"
+    }
+}
